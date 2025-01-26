@@ -1,0 +1,8 @@
+{
+  "name": "layer-refer",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
